@@ -1,5 +1,9 @@
 # YARA Skadis Joiner
 
+## Availablility
+
+- [https://www.printables.com/model/725135](https://www.printables.com/model/725135)
+
 ## Description
 
 I looked for a Skadis right angle connector, and while I found two, there were issues with both of them.
